@@ -1,6 +1,6 @@
 # 📓 Data Generation & Processing Notebooks
 
-يحتوي هذا المجلد على كراسات العمل البرمجية (Jupyter Notebooks) الخاصة بمراحل تجميع، تنظيف، هندسة الخصائص (Feature Engineering)، وتوليد مخرجات البيانات لشبكة القاهرة ضمن مشروع **UrbanMind AI**.
+يحتوي هذا المجلد على الاكواد البرمجية (Jupyter Notebooks) الخاصة بمراحل تجميع، هندسة الخصائص (Feature Engineering)، وتوليد مخرجات البيانات لشبكة القاهرة ضمن مشروع **UrbanMind AI**.
 
 ---
 
@@ -42,6 +42,6 @@
 ---
 
 ## ⚙️ متطلبات التشغيل (Requirements)
-لتشغيل هذه الكراسات البرمجية، تأكد من تثبيت الحزم التالية في بيئة بايثون:
+لتشغيل هذه الاكواد البرمجية، تأكد من تثبيت الحزم التالية في بيئة بايثون:
 ```bash
 pip install pandas numpy geopandas shapely matplotlib seaborn osmnx sqlite3
