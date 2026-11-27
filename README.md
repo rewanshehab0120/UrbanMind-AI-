@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="3b7fb3d5-608c-4c37-bea0-7d55f04d13d8.jpg" alt="UrbanMind AI Logo" width="140" />
+<img src="4f4gwe4f4gwe4.jpg" alt="UrbanMind AI Logo" width="140" />
 
 # UrbanMind AI
 
